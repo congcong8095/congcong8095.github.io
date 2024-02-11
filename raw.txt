@@ -1,4 +1,4 @@
-全部频道,#genre#
+测试频道,#genre#
 
 CCTV-1,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
 
